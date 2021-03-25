@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**niziming/niziming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--**niziming/niziming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<a title="Hits" target="_blank" href="https://github.com/niziming/hits"><img src="https://hits.b3log.org/niziming/hits.svg"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=niziming&show_icons=true&theme=default)
